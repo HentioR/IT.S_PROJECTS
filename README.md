@@ -1,9 +1,8 @@
 
-# PROJETS EN AUTONOMIE
+### PROJETS EN AUTONOMIE
+###### Dépôt contenant les projets réalisés en autonomie dans le cadre de la formation IT START.
 
-### Dépôt contenant les projets réalisés en autonomie dans le cadre de la formation IT START.
-
-Espace  
+<hr>
   
   
   
