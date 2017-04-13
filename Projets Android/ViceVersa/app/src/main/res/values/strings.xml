@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Le jeu du nombre mystère</string>
+    <string name="labelTitle">Saisissez un nombre entre 1 et 100</string>
+    <string name="strGreater">Veuillez saisir une valeur plus grande</string>
+    <string name="strLower">Veuillez saisir une valeur plus petite</string>
+    <string name="congratulations">Félicitations, vous avez trouvé !</string>
+    <string name="strMessage">Félicitations, vous avez trouvé en %d coups</string>
+    <string name="NumberPicked">Nombres essayés :</string>
+    <string name="viewHistory" translatable="false" />
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="viewResult" translatable="false">TextView</string>
+    <string name="btnValider">Valider</string>
+    <string name="counter" translatable="false" />
+    <string name="counterDisplay">Coups restants :  </string>
+    <string name="counterValue">Coups restants :  </string>
+    <string name="sadness">sadness</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="gameLost">Dommage, vous avez perdu...</string>
+    <string name="ragequit">Ragequit</string>
+    <string name="congratz">Felicitations, vous avez gagné !</string>
+</resources>

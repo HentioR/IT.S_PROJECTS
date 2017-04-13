@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MegaGame</string>
+    <string name="NumberPicked">Number tried:</string>
+    <string name="btnValider">Submit</string>
+    <string name="congratulations">Congratulations, you find the number !</string>
+    <string name="labelTitle">Enter a number between 1 and 100</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="strGreater">Please enter a greater value</string>
+    <string name="strLower">Please enter a lower value</string>
+    <string name="strMessage">Congratulations. You win in %d times.</string>
+    <string name="counterDisplay"> attempt left</string>
+    <string name="counterValue"> attempt left</string>
+</resources>

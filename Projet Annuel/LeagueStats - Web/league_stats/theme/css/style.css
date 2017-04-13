@@ -1,0 +1,212 @@
+.navbar{
+  width: 100%;
+  background-color: #2b3b4b;
+}
+
+body{
+  background-color: #eaeaea;
+}
+
+.ladder{
+  margin-top: 4%;
+  margin-bottom: 3%;
+}
+
+.title{
+  float: left;
+  color: #555e5e;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 8%;
+}
+
+.view {
+    background: url("http://localhost/league_stats/theme/images/baronBlur2.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    .full-bg-img,
+    .view {
+        height: auto;
+        position: relative;
+    }
+}
+
+.chall{
+
+}
+.iconeFull2{
+  margin-top: 80px;
+  margin-left: 90px;
+  position: absolute;
+}
+
+
+.copyright{
+  color: #758181;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: auto;
+}
+
+.footerPage{
+  height: 50px;
+  width: 100%;
+  background-color: #e0e4e4;
+  border-top: 1px solid #d4d7d7;
+  margin-top: 15px;
+}
+
+progress {
+  margin-right: 5px;
+  background-color: #f3f3f3;
+  border: 0;
+  height: 18px;
+  border-radius: 9px;
+}
+
+div.w3-light-grey{
+  width: 120px;
+}
+
+html,
+body,
+.view {
+    height: 100%;
+}
+
+.avatar{
+  border-radius: 5px;
+}
+
+.iconeFull{
+  margin-top: 80px;
+  margin-left: 131px;
+  position: absolute;
+}
+
+#home{
+  font-family: 'Lato', sans-serif;
+  color: #FDFCFB;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+       background-color: #2E2E2E;
+    }
+}
+
+.invisible{
+  visibility: hidden;
+  height: 0px;
+}
+
+#sForm{
+  width: 450px;
+}
+
+.header {
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-top: -10px;
+}
+
+.form{
+  width: 450px;
+  height: 130px;
+}
+
+.description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.3em;
+  margin: 20px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  height: 44px;
+  border: none;
+}
+
+
+#email {
+  float: left;
+  height: 43px;
+  width: 70%;
+  background: #FDFCFB;
+  font-family: inherit;
+  color: #737373;
+  letter-spacing: 1px;
+  text-indent: 5%;
+  border-radius: 5px 0 0 5px;
+}
+
+select.select{
+  float: left;
+  width: 15%;
+  height: 46px;
+  background: #E86C8D;
+  font-family: inherit;
+  font-weight: bold;
+  color: inherit;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background .3s ease-in-out;
+  height: 46px;
+  border-right: 1px solid black;
+
+}
+
+#submit {
+  float: left;
+  width: 15%;
+  height: 46px;
+  background: #E86C8D;
+  font-family: inherit;
+  font-weight: bold;
+  color: inherit;
+  letter-spacing: 1px;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  transition: background .3s ease-in-out;
+}
+
+
+#submit:hover {
+  background: #d45d7d;
+}
+
+
+#email:focus {
+  outline: none;
+  outline: 2px solid #E86C8D;
+  box-shadow: 0 0 2px #E86C8D;
+}
+
+#app-mockup {
+  border : 0px solid;
+  border-radius: 3px;
+}
+
+@media (max-width: 992px) {
+    .description {
+        padding-top: 7rem;
+        text-align: center;
+    }
+    #app-mockup {
+        max-height: 400px;
+
+    }
+}
